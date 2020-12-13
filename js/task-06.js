@@ -21,9 +21,3 @@ const calculateTotalPrice = function (allProdcuts, productName) {
 console.log(calculateTotalPrice(products, "Радар")); // 5200
 
 console.log(calculateTotalPrice(products, "Дроид")); // 2800
-
-// Напиши функцию calculateTotalPrice(allProdcuts, productName), которая
-// получает массив объектов и имя продукта(значение свойства name).
-// Возвращает общую стоимость продукта(цена * количество).
-
-// Вызовы функции для проверки работоспособности твоей реализации.
